@@ -1,0 +1,31 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='900' height='520' viewBox='0 0 900 520' font-family='DejaVu LGC Sans, DejaVu Sans, Noto Sans, Arial, sans-serif' font-size='11'><rect width='900' height='520' fill='white'/>
+<defs><marker id='arr' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#333'/></marker></defs><rect x='30' y='50' width='250' height='150' rx='9' fill='#f6e3e0' stroke='#333' stroke-width='1.2'/><text x='155.0' y='69' font-size='12' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='155.0' dy='0.0'>Job demands</tspan></text><text x='155.0' y='87.0' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222' ><tspan x='155.0' dy='0.0'>teaching and administrative workload ·</tspan><tspan x='155.0' dy='12.8'>publication and grant metrics · digital</tspan><tspan x='155.0' dy='12.8'>adaptation and constant connectivity · role</tspan><tspan x='155.0' dy='12.8'>ambiguity · contractual insecurity</tspan></text>
+<rect x='30' y='300' width='250' height='150' rx='9' fill='#e9f3e5' stroke='#333' stroke-width='1.2'/><text x='155.0' y='319' font-size='12' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='155.0' dy='0.0'>Job and personal resources</tspan></text><text x='155.0' y='337.0' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222' ><tspan x='155.0' dy='0.0'>autonomy and academic freedom · collegial</tspan><tspan x='155.0' dy='12.8'>and mentoring support · protected</tspan><tspan x='155.0' dy='12.8'>development time · fair appraisal ·</tspan><tspan x='155.0' dy='12.8'>self-efficacy and reflective capacity</tspan></text>
+<rect x='340' y='50' width='230' height='100' rx='9' fill='#f2c7c1' stroke='#333' stroke-width='1.2'/><text x='455.0' y='69' font-size='12' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='455.0' dy='0.0'>Health-impairment process</tspan></text><text x='455.0' y='87.0' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222' ><tspan x='455.0' dy='0.0'>chronic strain → exhaustion,</tspan><tspan x='455.0' dy='12.8'>disengagement, attrition</tspan></text>
+<rect x='340' y='350' width='230' height='100' rx='9' fill='#cbe6c4' stroke='#333' stroke-width='1.2'/><text x='455.0' y='369' font-size='12' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='455.0' dy='0.0'>Motivational process</tspan></text><text x='455.0' y='387.0' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222' ><tspan x='455.0' dy='0.0'>engagement → professional growth,</tspan><tspan x='455.0' dy='12.8'>innovation, identity consolidation</tspan></text>
+<line x1='282' y1='110' x2='338' y2='100' stroke='#b22' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='282' y1='390' x2='338' y2='400' stroke='#2e8b57' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='155' y1='298' x2='155' y2='202' stroke='#2e8b57' stroke-width='1.6' stroke-dasharray='4,3' marker-end='url(#arr)'/>
+<text x='162' y='254' font-size='9.8' fill='#2e8b57'>resources buffer demands</text>
+<circle cx='455' cy='250' r='60' fill='white' stroke='#1b4f9c' stroke-width='2'/>
+<text x='455' y='242' font-size='12' text-anchor='middle' font-weight='bold' fill='#1b4f9c' ><tspan x='455' dy='0.0'>Academic</tspan><tspan x='455' dy='15.0'>resilience</tspan></text>
+<text x='455' y='272' font-size='9.2' text-anchor='middle' font-weight='normal' fill='#1b4f9c' ><tspan x='455' dy='0.0'>adaptive,</tspan><tspan x='455' dy='11.5'>relational,</tspan><tspan x='455' dy='11.5'>learnable</tspan></text>
+<line x1='455' y1='190' x2='455' y2='153' stroke='#1b4f9c' stroke-width='1.6' stroke-dasharray='3,3' marker-end='url(#arr)'/>
+<text x='462' y='176' font-size='9.4' fill='#1b4f9c'>attenuates</text>
+<line x1='455' y1='310' x2='455' y2='347' stroke='#1b4f9c' stroke-width='1.6' marker-end='url(#arr)'/>
+<text x='462' y='334' font-size='9.4' fill='#1b4f9c'>amplifies</text>
+<rect x='610' y='50' width='265' height='400' rx='10' fill='#fafafa' stroke='#333'/>
+<text x='742' y='76' font-size='12.5' font-weight='bold' text-anchor='middle'>Strategic levers</text>
+<rect x='622' y='90' width='241' height='104' rx='8' fill='white' stroke='#1b4f9c' stroke-width='1.6'/>
+<text x='742' y='112' font-size='11.8' text-anchor='middle' font-weight='bold' fill='#1b4f9c' ><tspan x='742' dy='0.0'>Individual</tspan></text>
+<text x='742' y='134' font-size='9.9' text-anchor='middle' font-weight='normal' fill='#111' ><tspan x='742' dy='0.0'>reflective practice · boundary</tspan><tspan x='742' dy='12.4'>setting · peer support ·</tspan><tspan x='742' dy='12.4'>purposeful career planning</tspan></text>
+<rect x='622' y='208' width='241' height='104' rx='8' fill='white' stroke='#6a4c93' stroke-width='1.6'/>
+<text x='742' y='230' font-size='11.8' text-anchor='middle' font-weight='bold' fill='#6a4c93' ><tspan x='742' dy='0.0'>Leadership</tspan></text>
+<text x='742' y='252' font-size='9.9' text-anchor='middle' font-weight='normal' fill='#111' ><tspan x='742' dy='0.0'>inclusive, distributed and</tspan><tspan x='742' dy='12.4'>compassionate leadership ·</tspan><tspan x='742' dy='12.4'>transparent workload models</tspan></text>
+<rect x='622' y='326' width='241' height='104' rx='8' fill='white' stroke='#2e8b57' stroke-width='1.6'/>
+<text x='742' y='348' font-size='11.8' text-anchor='middle' font-weight='bold' fill='#2e8b57' ><tspan x='742' dy='0.0'>Institutional</tspan></text>
+<text x='742' y='370' font-size='9.9' text-anchor='middle' font-weight='normal' fill='#111' ><tspan x='742' dy='0.0'>well-being policy · sustainable</tspan><tspan x='742' dy='12.4'>metrics · recognition of teaching</tspan><tspan x='742' dy='12.4'>and service · secure contracts</tspan></text>
+<line x1='608' y1='250' x2='517' y2='250' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<text x='563' y='242' font-size='9.6' text-anchor='middle'>strengthen</text>
+<text x='450' y='495' font-size='10.5' text-anchor='middle' fill='#444'>Adapted from the job demands–resources model to the academic profession: resilience mediates whether demands lead to strain or to growth.</text>
+</svg>

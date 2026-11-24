@@ -1,0 +1,37 @@
+# key | APA 7th-edition reference (numbers are assigned automatically in order of first citation)
+henkel2000 | Henkel, M. (2000). *Academic identities and policy change in higher education*. Jessica Kingsley.
+barnett2000 | Barnett, R. (2000). *Realizing the university in an age of supercomplexity*. Society for Research into Higher Education & Open University Press.
+clegg2008 | Clegg, S. (2008). Academic identities under threat? *British Educational Research Journal, 34*(3), 329–345.
+becher2001 | Becher, T., & Trowler, P. R. (2001). *Academic tribes and territories: Intellectual enquiry and the culture of disciplines* (2nd ed.). Society for Research into Higher Education & Open University Press.
+beijaard2004 | Beijaard, D., Meijer, P. C., & Verloop, N. (2004). Reconsidering research on teachers' professional identity. *Teaching and Teacher Education, 20*(2), 107–128.
+wenger1998 | Wenger, E. (1998). *Communities of practice: Learning, meaning, and identity*. Cambridge University Press.
+boyer1990 | Boyer, E. L. (1990). *Scholarship reconsidered: Priorities of the professoriate*. Carnegie Foundation for the Advancement of Teaching.
+whitchurch2008 | Whitchurch, C. (2008). Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education. *Higher Education Quarterly, 62*(4), 377–396.
+kreber2010 | Kreber, C. (2010). Academics' teacher identities, authenticity and pedagogy. *Studies in Higher Education, 35*(2), 171–194.
+altbach2007 | Altbach, P. G., & Knight, J. (2007). The internationalization of higher education: Motivations and realities. *Journal of Studies in International Education, 11*(3–4), 290–305.
+selwyn2014 | Selwyn, N. (2014). *Digital technology and the contemporary university: Degrees of digitization*. Routledge.
+henkel2005 | Henkel, M. (2005). Academic identity and autonomy in a changing policy environment. *Higher Education, 49*(1–2), 155–176.
+ball2003 | Ball, S. J. (2003). The teacher's soul and the terrors of performativity. *Journal of Education Policy, 18*(2), 215–228.
+shore2015 | Shore, C., & Wright, S. (2015). Audit culture revisited: Rankings, ratings, and the reassembling of society. *Current Anthropology, 56*(3), 421–444.
+nep2020 | Ministry of Human Resource Development. (2020). *National Education Policy 2020*. Government of India.
+ugc2018 | University Grants Commission. (2018). *UGC (Minimum qualifications for appointment of teachers and other academic staff in universities and colleges and measures for the maintenance of standards in higher education) Regulations, 2018*. The Gazette of India.
+kezar2010 | Kezar, A., & Sam, C. (2010). Understanding the new majority of non-tenure-track faculty in higher education: Demographics, experiences, and plans of action. *ASHE Higher Education Report, 36*(4). Jossey-Bass.
+sorcinelli2006 | Sorcinelli, M. D., Austin, A. E., Eddy, P. L., & Beach, A. L. (2006). *Creating the future of faculty development: Learning from the past, understanding the present*. Anker.
+steinert2016 | Steinert, Y., Mann, K., Anderson, B., Barnett, B. M., Centeno, A., Naismith, L., Prideaux, D., Spencer, J., Tullo, E., Viggiano, T., Ward, H., & Dolmans, D. (2016). A systematic review of faculty development initiatives designed to enhance teaching effectiveness: A 10-year update: BEME Guide No. 40. *Medical Teacher, 38*(8), 769–786.
+stes2010 | Stes, A., Min-Leliveld, M., Gijbels, D., & Van Petegem, P. (2010). The impact of instructional development in higher education: The state-of-the-art of the research. *Educational Research Review, 5*(1), 25–49.
+desimone2009 | Desimone, L. M. (2009). Improving impact studies of teachers' professional development: Toward better conceptualizations and measures. *Educational Researcher, 38*(3), 181–199.
+darlinghammond2017 | Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). *Effective teacher professional development*. Learning Policy Institute.
+cox2004 | Cox, M. D. (2004). Introduction to faculty learning communities. *New Directions for Teaching and Learning, 2004*(97), 5–23.
+kram1985 | Kram, K. E. (1985). *Mentoring at work: Developmental relationships in organizational life*. Scott, Foresman.
+mishra2006 | Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A framework for teacher knowledge. *Teachers College Record, 108*(6), 1017–1054.
+hodges2020 | Hodges, C., Moore, S., Lockee, B., Trust, T., & Bond, A. (2020, March 27). The difference between emergency remote teaching and online learning. *EDUCAUSE Review*.
+zawacki2019 | Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education – where are the educators? *International Journal of Educational Technology in Higher Education, 16*, Article 39.
+unesco2023 | UNESCO. (2023). *Guidance for generative AI in education and research* (F. Miao & W. Holmes, Authors). UNESCO.
+oecd2021 | OECD. (2021). *Micro-credential innovations in higher education: Who, what and why?* (OECD Education Policy Perspectives No. 39). OECD Publishing.
+eu2022 | Council of the European Union. (2022). Council Recommendation of 16 June 2022 on a European approach to micro-credentials for lifelong learning and employability (2022/C 243/02). *Official Journal of the European Union, C 243*, 10–25.
+kinman2013 | Kinman, G., & Wray, S. (2013). *Higher stress: A survey of stress and well-being among staff in higher education*. University and College Union.
+gill2010 | Gill, R. (2010). Breaking the silence: The hidden injuries of neo-liberal academia. In R. Flood & R. Gill (Eds.), *Secrecy and silence in the research process: Feminist reflections* (pp. 228–244). Routledge.
+bakker2007 | Bakker, A. B., & Demerouti, E. (2007). The job demands-resources model: State of the art. *Journal of Managerial Psychology, 22*(3), 309–328.
+gu2007 | Gu, Q., & Day, C. (2007). Teachers' resilience: A necessary condition for effectiveness. *Teaching and Teacher Education, 23*(8), 1302–1316.
+schon1983 | Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. Basic Books.
+ryan2000 | Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.

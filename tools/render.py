@@ -26,6 +26,7 @@ def chrome(args):
 
 
 def svg_to_png(svg_path, png_path, scale=3):
+    svg_path, png_path = os.path.abspath(svg_path), os.path.abspath(png_path)
     svg = open(svg_path).read()
     w = int(float(re.search(r"width='([\d.]+)'", svg).group(1)))
     h = int(float(re.search(r"height='([\d.]+)'", svg).group(1)))

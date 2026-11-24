@@ -37,3 +37,17 @@ python3 tools/build_manuscript.py # HTML, PDF and DOCX
 - Several immune and drug-transport parameters are calibrated rather than measured (see Table 2 of the manuscript).
 
 Fonts: the DejaVu fonts in `fonts/` are used only for rendering. Their licence is in `fonts/LICENSE-dejavu.md`.
+
+# Book chapter: Academic Identity and Professional Development
+
+Authors: Meenu Rani and Amman Jakhar. Written for the edited volume *Higher Education Beyond Boundaries: Dynamics, Change, Challenges and Opportunities*.
+
+| File | Contents |
+|---|---|
+| `chapter/chapter.docx` | Editable Word version |
+| `chapter/chapter.pdf` | Typeset PDF |
+| `chapter/chapter.md` | Source text |
+| `chapter/references.txt` | 36 references in APA 7 style, numbered in order of first citation |
+| `chapter/figures/` | Figures 1–4 as SVG and PNG |
+
+To rebuild: `python3 tools/chapter_figures.py`, then `DOC_DIR=chapter DOC_SRC=chapter.md DOC_OUT=chapter DOC_LINENUM=0 python3 tools/build_manuscript.py`. The reference list was compiled without internet access, so check every entry before submission.

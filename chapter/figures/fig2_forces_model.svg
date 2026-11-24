@@ -1,0 +1,32 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='900' height='600' viewBox='0 0 900 600' font-family='DejaVu LGC Sans, DejaVu Sans, Noto Sans, Arial, sans-serif' font-size='11'><rect width='900' height='600' fill='white'/>
+<defs><marker id='arr' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#333'/></marker></defs><ellipse cx='320' cy='310' rx='310.8' ry='270' fill='#efe7d6' stroke='#666' stroke-width='1'/>
+<ellipse cx='320' cy='310' rx='244.2' ry='210' fill='#e6eef7' stroke='#666' stroke-width='1'/>
+<ellipse cx='320' cy='310' rx='177.6' ry='152' fill='#e9f3e5' stroke='#666' stroke-width='1'/>
+<ellipse cx='320' cy='310' rx='111.0' ry='96' fill='#f6e3e0' stroke='#666' stroke-width='1'/>
+<text x='320' y='58' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='320' dy='0.0'>Global environment</tspan></text>
+<text x='320' y='72' font-size='9.2' text-anchor='middle' font-weight='normal' fill='#333' ><tspan x='320' dy='0.0'>rankings and league tables · internationalisation · technology</tspan><tspan x='320' dy='11.5'>platforms · international research funding</tspan></text>
+<text x='320' y='118' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='320' dy='0.0'>National policy and regulation</tspan></text>
+<text x='320' y='132' font-size='9.2' text-anchor='middle' font-weight='normal' fill='#333' ><tspan x='320' dy='0.0'>NEP 2020 · UGC regulations and career advancement criteria ·</tspan><tspan x='320' dy='11.5'>accreditation and quality assurance</tspan></text>
+<text x='320' y='176' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='320' dy='0.0'>Institutional culture and governance</tspan></text>
+<text x='320' y='190' font-size='9.2' text-anchor='middle' font-weight='normal' fill='#333' ><tspan x='320' dy='0.0'>mission and strategy · performance appraisal · workload</tspan><tspan x='320' dy='11.5'>allocation · digital infrastructure · reward systems</tspan></text>
+<text x='320' y='232' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#111' ><tspan x='320' dy='0.0'>Disciplinary and departmental communities</tspan></text>
+<text x='320' y='246' font-size='9.2' text-anchor='middle' font-weight='normal' fill='#333' ><tspan x='320' dy='0.0'>epistemic norms · collegial networks ·</tspan><tspan x='320' dy='11.5'>communities of practice · student</tspan><tspan x='320' dy='11.5'>expectations</tspan></text>
+<ellipse cx='320' cy='328' rx='78' ry='52' fill='white' stroke='#1b4f9c' stroke-width='2'/>
+<text x='320' y='316' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#1b4f9c' ><tspan x='320' dy='0.0'>Individual</tspan><tspan x='320' dy='14.4'>academic</tspan></text>
+<text x='320' y='344' font-size='9' text-anchor='middle' font-weight='normal' fill='#1b4f9c' ><tspan x='320' dy='0.0'>values · aspirations ·</tspan><tspan x='320' dy='11.2'>self-efficacy · career</tspan><tspan x='320' dy='11.2'>stage</tspan></text>
+<rect x='690' y='70' width='195' height='470' rx='10' fill='#fafafa' stroke='#333'/>
+<text x='787' y='94' font-size='12.5' font-weight='bold' text-anchor='middle'>Identity negotiation</text>
+<rect x='702' y='112' width='171' height='112' rx='8' fill='white' stroke='#d1495b' stroke-width='1.6'/>
+<text x='787' y='134' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#d1495b' ><tspan x='787' dy='0.0'>Systemic pressure</tspan></text>
+<text x='787' y='156' font-size='9.8' text-anchor='middle' font-weight='normal' fill='#222' ><tspan x='787' dy='0.0'>metrics, accountability,</tspan><tspan x='787' dy='12.2'>efficiency demands</tspan></text>
+<rect x='702' y='252' width='171' height='112' rx='8' fill='white' stroke='#1b4f9c' stroke-width='1.6'/>
+<text x='787' y='274' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#1b4f9c' ><tspan x='787' dy='0.0'>Personal agency</tspan></text>
+<text x='787' y='296' font-size='9.8' text-anchor='middle' font-weight='normal' fill='#222' ><tspan x='787' dy='0.0'>values, scholarly</tspan><tspan x='787' dy='12.2'>commitments, professional</tspan><tspan x='787' dy='12.2'>autonomy</tspan></text>
+<rect x='702' y='392' width='171' height='112' rx='8' fill='white' stroke='#2e8b57' stroke-width='1.6'/>
+<text x='787' y='414' font-size='11.5' text-anchor='middle' font-weight='bold' fill='#2e8b57' ><tspan x='787' dy='0.0'>Possible outcomes</tspan></text>
+<text x='787' y='436' font-size='9.8' text-anchor='middle' font-weight='normal' fill='#222' ><tspan x='787' dy='0.0'>alignment · strategic</tspan><tspan x='787' dy='12.2'>compliance · resistance ·</tspan><tspan x='787' dy='12.2'>hybrid reinvention · exit</tspan></text>
+<line x1='787' y1='224' x2='787' y2='250' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='787' y1='364' x2='787' y2='390' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='636' y1='310' x2='686' y2='310' stroke='#555' stroke-width='1.6' stroke-dasharray='5,4' marker-end='url(#arr)' marker-start='url(#arr)'/>
+<text x='787' y='565' font-size='9.8' fill='#555' text-anchor='middle'>top-down structuring ⇄ bottom-up agency</text>
+</svg>

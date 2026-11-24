@@ -24,8 +24,10 @@ sys.path.insert(0, os.path.join(ROOT, "tools"))
 import texmath  # noqa: E402
 from render import FONT_CSS, html_to_pdf  # noqa: E402
 
-MS = os.path.join(ROOT, "manuscript")
-SRC = os.path.join(MS, "manuscript.md")
+DOC_DIR = os.environ.get("DOC_DIR", "manuscript")
+MS = os.path.join(ROOT, DOC_DIR)
+SRC = os.path.join(MS, os.environ.get("DOC_SRC", "manuscript.md"))
+OUT_BASE = os.environ.get("DOC_OUT", "manuscript")
 
 
 # ------------------------------------------------------------------ parsing
@@ -390,7 +392,7 @@ def build_docx(blks, num, refs, out_path):
                             + wrun(f"{n}.\t", size=19) + docx_inline(refs[key], num, size=19) + "</w:p>")
     sect = ("<w:sectPr><w:footerReference w:type='default' r:id='rIdFooter'/><w:pgSz w:w='11906' w:h='16838'/>"
             "<w:pgMar w:top='1134' w:right='1134' w:bottom='1134' w:left='1134' w:header='567' w:footer='567' w:gutter='0'/>"
-            "<w:lnNumType w:countBy='1' w:restart='continuous'/></w:sectPr>")
+            + ("<w:lnNumType w:countBy='1' w:restart='continuous'/>" if os.environ.get("DOC_LINENUM", "1") == "1" else "") + "</w:sectPr>")
     document = f"<?xml version='1.0' encoding='UTF-8' standalone='yes'?><w:document {NS}><w:body>{''.join(body)}{sect}</w:body></w:document>"
     styles = """<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <w:styles xmlns:w='http://schemas.openxmlformats.org/wordprocessingml/2006/main'>
@@ -454,11 +456,11 @@ def main():
     refs = load_refs()
     blks = blocks()
     num = Numbering(blks, refs)
-    out_html = os.path.join(MS, "manuscript.html")
+    out_html = os.path.join(MS, OUT_BASE + ".html")
     with open(out_html, "w") as f:
         f.write(build_html(blks, num, refs, embed=True))
-    html_to_pdf(out_html, os.path.join(MS, "manuscript.pdf"))
-    build_docx(blks, num, refs, os.path.join(MS, "manuscript.docx"))
+    html_to_pdf(out_html, os.path.join(MS, OUT_BASE + ".pdf"))
+    build_docx(blks, num, refs, os.path.join(MS, OUT_BASE + ".docx"))
     neq, nfig, ntab = num.counts
     print(f"equations={neq} figures={nfig} tables={ntab} references={len(num.cite)} words(body)={word_count(blks)}")
     order = sorted(num.cite.items(), key=lambda kv: kv[1])
