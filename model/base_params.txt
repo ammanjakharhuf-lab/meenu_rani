@@ -1,0 +1,75 @@
+# Baseline parameter set (space in mm, time in days, densities dimensionless)
+# ---- grid / time ----
+L = 40
+dx = 0.5
+dt = 0.02
+t_end = 1825
+seed = 1
+# ---- tumour cells ----
+D_c = 0.02            # density-dependent motility coefficient (mm^2/day at T=1)
+alpha_c = 0.35        # maximal proliferation rate (1/day)
+delta_c = 0.35        # maximal hypoxic death rate (1/day)
+theta_1 = 0.5         # O2 level for half-maximal proliferation (normalised)
+theta_2 = 0.3         # O2 level for half-maximal hypoxic death (normalised)
+lambda_sigma = 6      # O2 consumption by tumour relative to vascular supply
+kappa_n = 1.0         # fraction of native (co-optable) perfusion available to tumour
+c_init = 0.3
+r_init = 0.6
+K_cells = 5e5         # cells per mm^3 at T = 1
+H = 1.0               # tissue thickness represented (mm)
+# ---- immune response ----
+tau_0 = 0.2           # inactivated kill capacity (tumour cells / immune cell / day)
+tau_A = 2.0           # additional kill capacity when fully activated
+lambda_c = 0.01       # tumour density for half-saturated killing
+xi = 0.05             # tumour density for half-maximal activation
+D_m = 0.05
+chi_m = 0.05
+q_m = 0.001           # maximal recruitment through vessels (1/day)
+phi_a = 1.0
+omega = 0.5           # weight of systemically primed recruitment
+v_I = 1.0             # free VEGF level halving recruitment (endothelial anergy)
+beta_K = 0.3          # tumour-induced immune cell death (1/day at T=1)
+beta_m = 0.02         # immune cell turnover (1/day)
+D_a = 1.5
+gamma_ac = 5
+gamma_am = 20
+beta_a = 5
+k_P = 0.02            # systemic priming rate (1/day)
+M_P = 5e6             # burden for half-maximal priming (cells)
+beta_P = 0.02         # decay of systemic priming (1/day)
+# ---- VEGF and vasculature ----
+D_v = 0.5
+gamma_v = 20          # constitutive VEGF production (units of phi_v per day at T=1)
+alpha_v = 30          # hypoxia-induced VEGF production
+gamma_vm = 20         # VEGF production by activated immune cells
+beta_v = 20           # free VEGF degradation (1/day)
+beta_X = 1.0          # clearance of antibody-bound VEGF (1/day)
+mu_v = 2              # VEGF consumption by endothelium
+K_D = 23              # antibody-VEGF dissociation constant (units of phi_v, ~1 nM)
+D_b = 0.01
+alpha_b = 0.3
+b_max = 4
+delta_b = 0.1
+# ---- antibody ----
+D_A = 0.1
+P_A = 0.02
+beta_A = 0.03
+t_half = 20           # plasma half-life (days)
+C0 = 2.6e4            # plasma peak per 7.5 mg/kg dose (units of phi_v)
+dose_frac = 0
+drug_start = 1e9
+drug_stop = 1e9
+drug_interval = 21
+io_start = 1e9        # immune checkpoint blockade window
+io_stop = 1e9
+io_eff = 0.0          # fractional reduction of tumour-induced immune inactivation
+io_gain = 0.0         # fractional increase in cytotoxic capacity during blockade
+# ---- surgery / metastasis ----
+t_surgery = 365
+margin = 2.0
+lambda_seed = 0.08
+M_ref = 1e7
+lambda_dist = 0.33
+s0 = 0.005
+w_seed = 0.5
+M_det = 1e6

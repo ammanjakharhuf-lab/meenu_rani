@@ -1,0 +1,37 @@
+# key | Vancouver-style reference (numbering is assigned automatically by order of first citation)
+siegel2023 | Siegel RL, Miller KD, Wagle NS, Jemal A. Cancer statistics, 2023. CA Cancer J Clin. 2023;73(1):17–48.
+gershenwald2017 | Gershenwald JE, Scolyer RA, Hess KR, Sondak VK, Long GV, Ross MI, et al. Melanoma staging: evidence-based changes in the American Joint Committee on Cancer eighth edition cancer staging manual. CA Cancer J Clin. 2017;67(6):472–492.
+weber2017 | Weber J, Mandala M, Del Vecchio M, Gogas HJ, Arance AM, Cowey CL, et al. Adjuvant nivolumab versus ipilimumab in resected stage III or IV melanoma. N Engl J Med. 2017;377(19):1824–1835.
+folkman1971 | Folkman J. Tumor angiogenesis: therapeutic implications. N Engl J Med. 1971;285(21):1182–1186.
+hanahan1996 | Hanahan D, Folkman J. Patterns and emerging mechanisms of the angiogenic switch during tumorigenesis. Cell. 1996;86(3):353–364.
+hanahan2011 | Hanahan D, Weinberg RA. Hallmarks of cancer: the next generation. Cell. 2011;144(5):646–674.
+ferrara2003 | Ferrara N, Gerber HP, LeCouter J. The biology of VEGF and its receptors. Nat Med. 2003;9(6):669–676.
+danielsen2000 | Danielsen T, Rofstad EK. The constitutive level of vascular endothelial growth factor (VEGF) is more important than hypoxia-induced VEGF up-regulation in the angiogenesis of human melanoma xenografts. Br J Cancer. 2000;82(9):1528–1534.
+maccormack2004 | MacCormack MA, Cohen LM, Rogers GS. Local melanoma recurrence: a clarification of terminology. Dermatol Surg. 2004;30(12 Pt 1):1533–1538.
+degiorgi2003 | De Giorgi V, Massi D, Gerlini G, Mannone F, Quercioli E, Carli P. Immediate local and regional recurrence after the excision of a polypoid melanoma: tumor dormancy or tumor activation? Dermatol Surg. 2003;29(6):664–667.
+demicheli2008 | Demicheli R, Retsky MW, Hrushesky WJ, Baum M, Gukas ID. The effects of surgery on tumor growth: a century of investigations. Ann Oncol. 2008;19(11):1821–1828.
+oreilly1994 | O'Reilly MS, Holmgren L, Shing Y, Chen C, Rosenthal RA, Moses M, et al. Angiostatin: a novel angiogenesis inhibitor that mediates the suppression of metastases by a Lewis lung carcinoma. Cell. 1994;79(2):315–328.
+oreilly1997 | O'Reilly MS, Boehm T, Shing Y, Fukai N, Vasios G, Lane WS, et al. Endostatin: an endogenous inhibitor of angiogenesis and tumor growth. Cell. 1997;88(2):277–285.
+eikenberry2009 | Eikenberry S, Thalhauser C, Kuang Y. Tumor-immune interaction, surgical treatment, and cancer recurrence in a mathematical model of melanoma. PLoS Comput Biol. 2009;5(4):e1000362.
+boushaba2006 | Boushaba K, Levine HA, Nilsen-Hamilton M. A mathematical model for the regulation of tumor dormancy based on enzyme kinetics. Bull Math Biol. 2006;68(7):1495–1526.
+ferrara2004 | Ferrara N, Hillan KJ, Gerber HP, Novotny W. Discovery and development of bevacizumab, an anti-VEGF antibody for treating cancer. Nat Rev Drug Discov. 2004;3(5):391–400.
+hurwitz2004 | Hurwitz H, Fehrenbacher L, Novotny W, Cartwright T, Hainsworth J, Heim W, et al. Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer. N Engl J Med. 2004;350(23):2335–2342.
+corrie2014 | Corrie PG, Marshall A, Dunn JA, Middleton MR, Nathan PD, Gore M, et al. Adjuvant bevacizumab in patients with melanoma at high risk of recurrence (AVAST-M): preplanned interim results from a multicentre, open-label, randomised controlled phase 3 study. Lancet Oncol. 2014;15(6):620–630.
+corrie2018 | Corrie PG, Marshall A, Nathan PD, Lorigan P, Gore M, Tahir S, et al. Adjuvant bevacizumab for melanoma patients at high risk of recurrence: survival analysis of the AVAST-M trial. Ann Oncol. 2018;29(8):1843–1852.
+ebos2009 | Ebos JML, Lee CR, Cruz-Munoz W, Bjarnason GA, Christensen JG, Kerbel RS. Accelerated metastasis after short-term treatment with a potent inhibitor of tumor angiogenesis. Cancer Cell. 2009;15(3):232–239.
+paezribes2009 | Pàez-Ribes M, Allen E, Hudock J, Takeda T, Okuyama H, Viñals F, et al. Antiangiogenic therapy elicits malignant progression of tumors to increased local invasion and distant metastasis. Cancer Cell. 2009;15(3):220–231.
+bergers2008 | Bergers G, Hanahan D. Modes of resistance to anti-angiogenic therapy. Nat Rev Cancer. 2008;8(8):592–603.
+kuczynski2019 | Kuczynski EA, Vermeulen PB, Pezzella F, Kerbel RS, Reynolds AR. Vessel co-option in cancer. Nat Rev Clin Oncol. 2019;16(8):469–493.
+jain2005 | Jain RK. Normalization of tumor vasculature: an emerging concept in antiangiogenic therapy. Science. 2005;307(5706):58–62.
+motz2011 | Motz GT, Coukos G. The parallel lives of angiogenesis and immunosuppression: cancer and other tales. Nat Rev Immunol. 2011;11(10):702–711.
+gabrilovich1996 | Gabrilovich DI, Chen HL, Girgis KR, Cunningham HT, Meny GM, Nadaf S, et al. Production of vascular endothelial growth factor by human tumors inhibits the functional maturation of dendritic cells. Nat Med. 1996;2(10):1096–1103.
+huang2012 | Huang Y, Yuan J, Righi E, Kamoun WS, Ancukiewicz M, Nezivar J, et al. Vascular normalizing doses of antiangiogenic treatment reprogram the immunosuppressive tumor microenvironment and enhance immunotherapy. Proc Natl Acad Sci U S A. 2012;109(43):17561–17566.
+fukumura2018 | Fukumura D, Kloepper J, Amoozgar Z, Duda DG, Jain RK. Enhancing cancer immunotherapy using antiangiogenics: opportunities and challenges. Nat Rev Clin Oncol. 2018;15(5):325–340.
+hodi2014 | Hodi FS, Lawrence D, Lezcano C, Wu X, Zhou J, Sasada T, et al. Bevacizumab plus ipilimumab in patients with metastatic melanoma. Cancer Immunol Res. 2014;2(7):632–642.
+hahnfeldt1999 | Hahnfeldt P, Panigrahy D, Folkman J, Hlatky L. Tumor development under angiogenic signaling: a dynamical theory of tumor growth, treatment response, and postvascular dormancy. Cancer Res. 1999;59(19):4770–4775.
+anderson1998 | Anderson ARA, Chaplain MAJ. Continuous and discrete mathematical models of tumor-induced angiogenesis. Bull Math Biol. 1998;60(5):857–899.
+kuznetsov1994 | Kuznetsov VA, Makalkin IA, Taylor MA, Perelson AS. Nonlinear dynamics of immunogenic tumors: parameter estimation and global bifurcation analysis. Bull Math Biol. 1994;56(2):295–321.
+depillis2005 | de Pillis LG, Radunskaya AE, Wiseman CL. A validated mathematical model of cell-mediated immune response to tumor growth. Cancer Res. 2005;65(17):7950–7958.
+benzekry2016 | Benzekry S, Tracz A, Mastri M, Corbelli R, Barbolosi D, Ebos JML. Modeling spontaneous metastasis following surgery: an in vivo–in silico approach. Cancer Res. 2016;76(3):535–547.
+lu2008 | Lu JF, Bruno R, Eppler S, Novotny W, Lum B, Gaudreault J. Clinical pharmacokinetics of bevacizumab in patients with solid tumors. Cancer Chemother Pharmacol. 2008;62(5):779–786.
+nesbit2001 | Nesbit M, Schaider H, Miller TH, Herlyn M. Low-level monocyte chemoattractant protein-1 stimulation of monocytes leads to tumor formation in nontumorigenic melanoma cells. J Immunol. 2001;166(11):6483–6490.
