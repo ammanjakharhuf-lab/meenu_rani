@@ -1,0 +1,48 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='960' height='380' viewBox='0 0 960 380' font-family='DejaVu LGC Sans, DejaVu Sans, Noto Sans, Arial, sans-serif' font-size='11'><rect width='960' height='380' fill='white'/>
+<defs><marker id='arr' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#333'/></marker><marker id='load' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='8' markerHeight='8' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#c0392b'/></marker><marker id='dim' viewBox='0 0 10 10' refX='10' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,1 L10,5 L0,9 z' fill='#1b4f9c'/></marker><pattern id='hatch' width='6' height='6' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><line x1='0' y1='0' x2='0' y2='6' stroke='#999' stroke-width='1'/></pattern></defs><text x='480.0' y='28' font-size='15' text-anchor='middle' font-weight='bold' fill='#111'>Experimental sequence for PLA–ZnO feedstock, specimens and tests</text>
+<rect x='22.0' y='52.0' width='164.0' height='100.0' rx='9' fill='#e6eef7' stroke='#333' stroke-width='1.2' />
+<text x='104.0' y='74' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>1. Drying</text>
+<text x='104.0' y='96' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='104.0' dy='0.0'>PLA pellets 60 °C, 6 h;</tspan><tspan x='104.0' dy='12.8'>ZnO powder 110 °C, 2 h</tspan></text>
+<rect x='210.0' y='52.0' width='164.0' height='100.0' rx='9' fill='#e6eef7' stroke='#333' stroke-width='1.2' />
+<text x='292.0' y='74' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>2. Weighing</text>
+<text x='292.0' y='96' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='292.0' dy='0.0'>PLA and ZnO weighed to</tspan><tspan x='292.0' dy='12.8'>±0.01 g for 0, 1, 3 and 5</tspan><tspan x='292.0' dy='12.8'>wt% ZnO (Table 1)</tspan></text>
+<rect x='398.0' y='52.0' width='164.0' height='100.0' rx='9' fill='#e9f3e5' stroke='#333' stroke-width='1.2' />
+<text x='480.0' y='74' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>3. ZnO dispersion</text>
+<text x='480.0' y='96' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='480.0' dy='0.0'>ZnO in anhydrous ethanol,</tspan><tspan x='480.0' dy='12.8'>magnetic stirring at 420</tspan><tspan x='480.0' dy='12.8'>rpm for 30 min</tspan></text>
+<rect x='586.0' y='52.0' width='164.0' height='100.0' rx='9' fill='#e9f3e5' stroke='#333' stroke-width='1.2' />
+<text x='668.0' y='74' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>4. Pellet coating</text>
+<text x='668.0' y='96' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='668.0' dy='0.0'>PLA pellets added,</tspan><tspan x='668.0' dy='12.8'>tumbled until ethanol</tspan><tspan x='668.0' dy='12.8'>evaporates; dried 60 °C,</tspan><tspan x='668.0' dy='12.8'>12 h</tspan></text>
+<rect x='774.0' y='52.0' width='164.0' height='100.0' rx='9' fill='#fbe7b5' stroke='#333' stroke-width='1.2' />
+<text x='856.0' y='74' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>5. Melt compounding</text>
+<text x='856.0' y='96' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='856.0' dy='0.0'>Extruded, cooled and</tspan><tspan x='856.0' dy='12.8'>pelletised to homogenise</tspan><tspan x='856.0' dy='12.8'>the ZnO</tspan></text>
+<rect x='116.0' y='216.0' width='164.0' height='100.0' rx='9' fill='#fbe7b5' stroke='#333' stroke-width='1.2' />
+<text x='198.0' y='238' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>6. Filament extrusion</text>
+<text x='198.0' y='260' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='198.0' dy='0.0'>Second extrusion pass to</tspan><tspan x='198.0' dy='12.8'>Ø1.75 ± 0.05 mm; diameter</tspan><tspan x='198.0' dy='12.8'>and MFI checked</tspan></text>
+<rect x='304.0' y='216.0' width='164.0' height='100.0' rx='9' fill='#f6e3e0' stroke='#333' stroke-width='1.2' />
+<text x='386.0' y='238' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>7. 3D printing</text>
+<text x='386.0' y='260' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='386.0' dy='0.0'>Flat (XY) build, 100 %</tspan><tspan x='386.0' dy='12.8'>infill, ±45° raster, same</tspan><tspan x='386.0' dy='12.8'>layout for every</tspan><tspan x='386.0' dy='12.8'>composition</tspan></text>
+<rect x='492.0' y='216.0' width='164.0' height='100.0' rx='9' fill='#f6e3e0' stroke='#333' stroke-width='1.2' />
+<text x='574.0' y='238' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>8. Conditioning</text>
+<text x='574.0' y='260' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='574.0' dy='0.0'>23 ± 2 °C and 50 ± 10 %</tspan><tspan x='574.0' dy='12.8'>RH for at least 40 h;</tspan><tspan x='574.0' dy='12.8'>dimensions and mass</tspan><tspan x='574.0' dy='12.8'>recorded</tspan></text>
+<rect x='680.0' y='216.0' width='164.0' height='100.0' rx='9' fill='#e3d9f0' stroke='#333' stroke-width='1.2' />
+<text x='762.0' y='238' font-size='12.5' text-anchor='middle' font-weight='bold' fill='#111'>9. Mechanical tests</text>
+<text x='762.0' y='260' font-size='10.2' text-anchor='middle' font-weight='normal' fill='#222'><tspan x='762.0' dy='0.0'>Tensile, three-point</tspan><tspan x='762.0' dy='12.8'>flexure, Shore D</tspan><tspan x='762.0' dy='12.8'>hardness, fracture</tspan><tspan x='762.0' dy='12.8'>inspection</tspan></text>
+<line x1='188.0' y1='102.0' x2='207.0' y2='102.0' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='376.0' y1='102.0' x2='395.0' y2='102.0' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='564.0' y1='102.0' x2='583.0' y2='102.0' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='752.0' y1='102.0' x2='771.0' y2='102.0' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<path d='M856.0,154 L856.0,184.0 L198.0,184.0 L198.0,213' fill='none' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='282.0' y1='266.0' x2='301.0' y2='266.0' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='470.0' y1='266.0' x2='489.0' y2='266.0' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<line x1='658.0' y1='266.0' x2='677.0' y2='266.0' stroke='#333' stroke-width='1.6' marker-end='url(#arr)'/>
+<rect x='150.0' y='345.0' width='16.0' height='12.0' rx='2' fill='#e6eef7' stroke='#555' stroke-width='0.8' />
+<text x='172' y='355' font-size='10.5' text-anchor='start' font-weight='normal' fill='#111'>Raw materials</text>
+<rect x='291.8' y='345.0' width='16.0' height='12.0' rx='2' fill='#e9f3e5' stroke='#555' stroke-width='0.8' />
+<text x='313.8' y='355' font-size='10.5' text-anchor='start' font-weight='normal' fill='#111'>Mixture preparation</text>
+<rect x='473.2' y='345.0' width='16.0' height='12.0' rx='2' fill='#fbe7b5' stroke='#555' stroke-width='0.8' />
+<text x='495.2' y='355' font-size='10.5' text-anchor='start' font-weight='normal' fill='#111'>Feedstock</text>
+<rect x='588.6' y='345.0' width='16.0' height='12.0' rx='2' fill='#f6e3e0' stroke='#555' stroke-width='0.8' />
+<text x='610.6' y='355' font-size='10.5' text-anchor='start' font-weight='normal' fill='#111'>Specimens</text>
+<rect x='704.0' y='345.0' width='16.0' height='12.0' rx='2' fill='#e3d9f0' stroke='#555' stroke-width='0.8' />
+<text x='726.0' y='355' font-size='10.5' text-anchor='start' font-weight='normal' fill='#111'>Testing</text>
+</svg>

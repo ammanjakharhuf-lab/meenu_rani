@@ -1,0 +1,50 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='940' height='640' viewBox='0 0 940 640' font-family='DejaVu LGC Sans, DejaVu Sans, Noto Sans, Arial, sans-serif' font-size='11'><rect width='940' height='640' fill='white'/>
+<defs><marker id='arr' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#333'/></marker><marker id='load' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='8' markerHeight='8' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#c0392b'/></marker><marker id='dim' viewBox='0 0 10 10' refX='10' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,1 L10,5 L0,9 z' fill='#1b4f9c'/></marker><pattern id='hatch' width='6' height='6' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><line x1='0' y1='0' x2='0' y2='6' stroke='#999' stroke-width='1'/></pattern></defs><text x='20' y='28' font-size='13' text-anchor='start' font-weight='bold' fill='#111'>(a) Tensile specimen, ASTM D638 Type I (thickness 3.2 mm)</text>
+<path d='M140.0,82.0 L271.4,82.0 A304.0,304.0 0 0 0 356.0,94.0 L584.0,94.0 A304.0,304.0 0 0 0 668.6,82.0 L800.0,82.0 L800.0,158.0 L668.6,158.0 A304.0,304.0 0 0 0 584.0,146.0 L356.0,146.0 A304.0,304.0 0 0 0 271.4,158.0 L140.0,158.0 Z' fill='#dfe6ee' stroke='#333' stroke-width='1.3'/>
+<line x1='370.0' y1='94.0' x2='370.0' y2='146.0' stroke='#c0392b' stroke-width='1.2' stroke-dasharray='4,3'/>
+<line x1='570.0' y1='94.0' x2='570.0' y2='146.0' stroke='#c0392b' stroke-width='1.2' stroke-dasharray='4,3'/>
+<line x1='370.0' y1='146.0' x2='370.0' y2='170.0' stroke='#c0392b' stroke-width='0.7'/>
+<line x1='570.0' y1='146.0' x2='570.0' y2='170.0' stroke='#c0392b' stroke-width='0.7'/>
+<line x1='370.0' y1='170.0' x2='570.0' y2='170.0' stroke='#c0392b' stroke-width='0.9'/>
+<text x='470.0' y='184' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#c0392b'>gauge length 50</text>
+<line x1='140.0' y1='160.0' x2='140.0' y2='214.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='800.0' y1='160.0' x2='800.0' y2='214.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='140.0' y1='210.0' x2='800.0' y2='210.0' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='470.0' y='223' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#1b4f9c'>overall length 165</text>
+<line x1='356.0' y1='92.0' x2='356.0' y2='64.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='584.0' y1='92.0' x2='584.0' y2='64.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='356.0' y1='68.0' x2='584.0' y2='68.0' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='470.0' y='64' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#1b4f9c'>narrow section 57</text>
+<line x1='140.0' y1='82.0' x2='118.0' y2='82.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='140.0' y1='158.0' x2='118.0' y2='158.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='122.0' y1='82.0' x2='122.0' y2='158.0' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='117' y='124.0' font-size='10.5' text-anchor='end' font-weight='normal' fill='#1b4f9c'>W0 = 19</text>
+<line x1='460.0' y1='94.0' x2='460.0' y2='146.0' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='465.0' y='124.0' font-size='10.5' text-anchor='start' font-weight='normal' fill='#1b4f9c'>W = 13</text>
+<text x='700.0' y='68' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#1b4f9c'>fillet R 76</text>
+<line x1='700.0' y1='73.0' x2='652.0' y2='88.4' stroke='#1b4f9c' stroke-width='0.8'/>
+<text x='814.0' y='118' font-size='10.5' text-anchor='start' font-weight='normal' fill='#444'>grip</text>
+<text x='814.0' y='132' font-size='10.5' text-anchor='start' font-weight='normal' fill='#444'>region</text>
+<text x='20' y='268' font-size='13' text-anchor='start' font-weight='bold' fill='#111'>(b) Flexural bar, ASTM D790 Procedure A</text>
+<rect x='60.0' y='298.0' width='508.0' height='50.8' rx='0' fill='#e9f3e5' stroke='#333' stroke-width='1.3' />
+<text x='314.0' y='328' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#444'>top view</text>
+<line x1='60.0' y1='348.8' x2='60.0' y2='376.8' stroke='#1b4f9c' stroke-width='0.7'/><line x1='568.0' y1='348.8' x2='568.0' y2='376.8' stroke='#1b4f9c' stroke-width='0.7'/><line x1='60.0' y1='372.8' x2='568.0' y2='372.8' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='314.0' y='385.8' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#1b4f9c'>length 127</text>
+<line x1='568.0' y1='298.0' x2='590.0' y2='298.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='568.0' y1='348.8' x2='590.0' y2='348.8' stroke='#1b4f9c' stroke-width='0.7'/><line x1='586.0' y1='298.0' x2='586.0' y2='348.8' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='591.0' y='327.4' font-size='10.5' text-anchor='start' font-weight='normal' fill='#1b4f9c'>b = 12.7</text>
+<text x='60' y='411' font-size='10.5' text-anchor='start' font-weight='normal' fill='#444'>side view on supports (span-to-depth ratio 16:1)</text>
+<rect x='60.0' y='473.0' width='508.0' height='12.8' rx='0' fill='#e9f3e5' stroke='#333' stroke-width='1.3' />
+<path d='M199.6,507.8 L223.6,507.8 L211.6,485.8 Z' fill='#bbb' stroke='#333'/>
+<path d='M404.4,507.8 L428.4,507.8 L416.4,485.8 Z' fill='#bbb' stroke='#333'/>
+<path d='M304.0,451 L324.0,451 L314.0,473 Z' fill='#bbb' stroke='#333'/>
+<line x1='314.0' y1='425.0' x2='314.0' y2='449.0' stroke='#c0392b' stroke-width='1.8' marker-end='url(#load)'/>
+<text x='322.0' y='435' font-size='12' text-anchor='start' font-weight='bold' fill='#c0392b'>P</text>
+<line x1='211.6' y1='509.8' x2='211.6' y2='535.8' stroke='#1b4f9c' stroke-width='0.7'/><line x1='416.4' y1='509.8' x2='416.4' y2='535.8' stroke='#1b4f9c' stroke-width='0.7'/><line x1='211.6' y1='531.8' x2='416.4' y2='531.8' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='314.0' y='544.8' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#1b4f9c'>support span L = 51.2</text>
+<line x1='568.0' y1='473.0' x2='590.0' y2='473.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='568.0' y1='485.8' x2='590.0' y2='485.8' stroke='#1b4f9c' stroke-width='0.7'/><line x1='586.0' y1='473.0' x2='586.0' y2='485.8' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='591.0' y='483.4' font-size='10.5' text-anchor='start' font-weight='normal' fill='#1b4f9c'>d = 3.2</text>
+<text x='650' y='268' font-size='13' text-anchor='start' font-weight='bold' fill='#111'>(c) Hardness block, Shore D</text>
+<rect x='680.0' y='298.0' width='200.0' height='200.0' rx='0' fill='url(#hatch)' stroke='#333' stroke-width='1.3' />
+<rect x='740.0' y='358.0' width='80.0' height='80.0' rx='0' fill='#fbe7b5' stroke='#c08a1e' stroke-width='1.0' stroke-dasharray='4,3'/>
+<circle cx='750.0' cy='368.0' r='4.5' fill='#c0392b'/>
+<text x='737.0' y='362.0' font-size='10' text-anchor='start' font-weight='normal' fill='#c0392b'>1</text>
+<circle cx='810.0' cy='368.0' r='4.5' fill='#c0392b'/>
+<text x='797.0' y='362.0' font-size='10' text-anchor='start' font-weight='normal' fill='#c0392b'>2</text>
+<circle cx='780.0' cy='398.0' r='4.5' fill='#c0392b'/>
+<text x='767.0' y='392.0' font-size='10' text-anchor='start' font-weight='normal' fill='#c0392b'>3</text>
+<circle cx='750.0' cy='428.0' r='4.5' fill='#c0392b'/>
+<text x='737.0' y='422.0' font-size='10' text-anchor='start' font-weight='normal' fill='#c0392b'>4</text>
+<circle cx='810.0' cy='428.0' r='4.5' fill='#c0392b'/>
+<text x='797.0' y='422.0' font-size='10' text-anchor='start' font-weight='normal' fill='#c0392b'>5</text>
+<line x1='680.0' y1='498.0' x2='680.0' y2='526.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='880.0' y1='498.0' x2='880.0' y2='526.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='680.0' y1='522.0' x2='880.0' y2='522.0' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='780.0' y='535.0' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#1b4f9c'>40</text>
+<line x1='680.0' y1='298.0' x2='660.0' y2='298.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='680.0' y1='498.0' x2='660.0' y2='498.0' stroke='#1b4f9c' stroke-width='0.7'/><line x1='664.0' y1='298.0' x2='664.0' y2='498.0' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='659' y='402.0' font-size='10.5' text-anchor='end' font-weight='normal' fill='#1b4f9c'>40</text>
+<line x1='680.0' y1='288.0' x2='740.0' y2='288.0' stroke='#1b4f9c' stroke-width='0.9' marker-end='url(#dim)' marker-start='url(#dim)'/><text x='710.0' y='284' font-size='9.5' text-anchor='middle' font-weight='normal' fill='#1b4f9c'>12</text>
+<text x='780' y='554.0' font-size='10' text-anchor='middle' font-weight='normal' fill='#333'><tspan x='780' dy='0.0'>Thickness 6 mm. Hatched band: 12 mm edge</tspan><tspan x='780' dy='12.5'>margin with no indentations. Sites 1–5</tspan><tspan x='780' dy='12.5'>are at least 6 mm apart.</tspan></text>
+<text x='470.0' y='628' font-size='10.5' text-anchor='middle' font-weight='normal' fill='#444'>All dimensions in millimetres. Drawings are to scale within each panel.</text>
+</svg>

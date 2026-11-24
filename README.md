@@ -51,3 +51,24 @@ Authors: Meenu Rani and Amman Jakhar. Written for the edited volume *Higher Educ
 | `chapter/figures/` | Figures 1–4 as SVG and PNG |
 
 To rebuild: `python3 tools/chapter_figures.py`, then `DOC_DIR=chapter DOC_SRC=chapter.md DOC_OUT=chapter DOC_LINENUM=0 python3 tools/build_manuscript.py`. The reference list was compiled without internet access, so check every entry before submission.
+
+# Book chapter: Mechanical Characterization of 3D-Printed PLA–ZnO Composites
+
+| File | Contents |
+|---|---|
+| `pla_zno_chapter/chapter.docx` | Editable Word version |
+| `pla_zno_chapter/chapter.pdf` | Typeset PDF |
+| `pla_zno_chapter/chapter.md` | Source text |
+| `pla_zno_chapter/figures/` | Figures 1–6 as SVG and PNG |
+
+The chapter has no reference list: literature citations were removed at the author's request.
+
+To rebuild: `python3 tools/pla_zno_figures.py`, then `DOC_DIR=pla_zno_chapter DOC_SRC=chapter.md DOC_OUT=chapter DOC_LINENUM=0 python3 tools/build_manuscript.py`.
+
+Before submission:
+
+- Figure 2 is a placeholder. Replace `pla_zno_chapter/figures/fig2_equipment.png` with the original four-panel laboratory photograph and rebuild.
+- Fill in the items in square brackets: authors, affiliation, PLA and ZnO supplier and grade, extruder model and screw speed, printer model, testing machine and durometer.
+- The processing, printing and test settings (Tables 2–4 and Figures 1, 4 and 5) are typical values for PLA. Replace any that differ from what was actually used in the laboratory.
+- The ethanol-assisted ZnO coating step (Section 2.3) was written to match the magnetic stirrer shown in Figure 2. Confirm it describes the actual mixing procedure.
+- Table 6 is empty. Enter the measured values when testing is complete.

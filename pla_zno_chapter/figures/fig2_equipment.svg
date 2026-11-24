@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='900' height='640' viewBox='0 0 900 640' font-family='DejaVu LGC Sans, DejaVu Sans, Noto Sans, Arial, sans-serif' font-size='11'><rect width='900' height='640' fill='white'/>
+<defs><marker id='arr' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#333'/></marker><marker id='load' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='8' markerHeight='8' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#c0392b'/></marker><marker id='dim' viewBox='0 0 10 10' refX='10' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M0,1 L10,5 L0,9 z' fill='#1b4f9c'/></marker><pattern id='hatch' width='6' height='6' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'><line x1='0' y1='0' x2='0' y2='6' stroke='#999' stroke-width='1'/></pattern></defs><rect x='20.0' y='20.0' width='420.0' height='290.0' rx='0' fill='#f2f2f2' stroke='#999' stroke-width='1' />
+<rect x='20.0' y='282.0' width='420.0' height='28.0' rx='0' fill='#fafafa' stroke='#999' stroke-width='1' />
+<text x='230' y='301' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#111'>(a) 3D printer and filament feeder</text>
+<text x='230' y='140' font-size='14' text-anchor='middle' font-weight='bold' fill='#888'>Insert original photograph</text>
+<text x='230' y='164' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#888'>Bambu Lab printer with multi-spool feeder</text>
+<rect x='460.0' y='20.0' width='420.0' height='290.0' rx='0' fill='#f2f2f2' stroke='#999' stroke-width='1' />
+<rect x='460.0' y='282.0' width='420.0' height='28.0' rx='0' fill='#fafafa' stroke='#999' stroke-width='1' />
+<text x='670' y='301' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#111'>(b) Magnetic-stirring apparatus</text>
+<text x='670' y='140' font-size='14' text-anchor='middle' font-weight='bold' fill='#888'>Insert original photograph</text>
+<text x='670' y='164' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#888'>REMI 2MLH magnetic stirrer with flask</text>
+<rect x='20.0' y='330.0' width='420.0' height='290.0' rx='0' fill='#f2f2f2' stroke='#999' stroke-width='1' />
+<rect x='20.0' y='592.0' width='420.0' height='28.0' rx='0' fill='#fafafa' stroke='#999' stroke-width='1' />
+<text x='230' y='611' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#111'>(c) Melt-flow-index tester</text>
+<text x='230' y='450' font-size='14' text-anchor='middle' font-weight='bold' fill='#888'>Insert original photograph</text>
+<text x='230' y='474' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#888'>PACORR melt-flow-index tester</text>
+<rect x='460.0' y='330.0' width='420.0' height='290.0' rx='0' fill='#f2f2f2' stroke='#999' stroke-width='1' />
+<rect x='460.0' y='592.0' width='420.0' height='28.0' rx='0' fill='#fafafa' stroke='#999' stroke-width='1' />
+<text x='670' y='611' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#111'>(d) Stirrer controller detail</text>
+<text x='670' y='450' font-size='14' text-anchor='middle' font-weight='bold' fill='#888'>Insert original photograph</text>
+<text x='670' y='474' font-size='11.5' text-anchor='middle' font-weight='normal' fill='#888'>Controller display at 420 rpm</text>
+</svg>
